@@ -94,8 +94,4 @@ frontend-projects/
 🎓 B.Tech Information Technology Student
 💻 Backend Development & AI/ML Enthusiast
 
-
 ```
-
-
-
